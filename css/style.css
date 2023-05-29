@@ -357,7 +357,8 @@ button:focus {
           height: auto; } }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .home_right_img {
-          display: none; } }
+          display: inline-block;
+         } }
     .home_banner_area .banner_inner .col-lg-7 {
       vertical-align: middle;
       align-self: center; }
